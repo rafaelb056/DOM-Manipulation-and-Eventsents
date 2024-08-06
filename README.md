@@ -6,18 +6,19 @@ The game of rock, paper, scissors
 
 ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&logoSize=auto&labelColor=white)  ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto&labelColor=black)
 
-![prepreviewor del projecto](<app_screenshot.png>)
+![prepreviewor del projecto](<domimg.png>)
 
 This project about the game of rock, paper or scissors
 
 ## Built With
-
+- HTML 5
+- javascript
 - visual studie code
 
 
 ## Live Demo
 
-[Live Demo Link]( https://rafaelb056.github.io/Palindro/)
+[Live Demo Link]( https://rafaelb056.github.io/DOM-Manipulation-and-Eventsents/)
 
 
 ## Getting Started

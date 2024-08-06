@@ -2,21 +2,22 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+The game of rock, paper, scissors
 
-![screenshot](./app_screenshot.png)
+![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&logoSize=auto&labelColor=white)  ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto&labelColor=black)
 
-Additional description about the project and its features.
+![prepreviewor del projecto](<app_screenshot.png>)
+
+This project about the game of rock, paper or scissors
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- visual studie code
+
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]( https://rafaelb056.github.io/Palindro/)
 
 
 ## Getting Started
@@ -25,51 +26,35 @@ Additional description about the project and its features.
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
+## Como hacer una copia en local
 
-### Prerequisites
+### ir al repositorio del github
 
-### Setup
+### copiar el codigo de http
 
-### Install
+### y hacer un git clone en una terminal de linux o en git bash
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+### cuando ya  este clonado abrilo con visual studio code
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Rafael Benitez Enriquez Gonzales**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@rafaelb056](https://github.com/rafaelb056)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/rafaelb056/test_to_flexbox/issues).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+muchas gracias por el apoyo
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-  gracias al profesor aristides
 
 ## 📝 License
 

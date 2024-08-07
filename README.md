@@ -8,7 +8,7 @@ The game of rock, paper, scissors
 
 ![prepreviewor del projecto](<domimg.png>)
 
-Este es un ejercicio sobre como manipular dom
+This is an exercise on how to manipulate DOM.
 
 ## Built With
 

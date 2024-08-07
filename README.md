@@ -8,24 +8,22 @@ The game of rock, paper, scissors
 
 ![prepreviewor del projecto](<domimg.png>)
 
-This project about the game of rock, paper or scissors
+Este es un ejercicio sobre como manipular dom
 
 ## Built With
+
 - HTML 5
 - javascript
 - visual studie code
-
 
 ## Live Demo
 
 [Live Demo Link]( https://rafaelb056.github.io/DOM-Manipulation-and-Eventsents/)
 
-
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 ## Como hacer una copia en local
 
@@ -51,11 +49,11 @@ Feel free to check the [issues page](https://github.com/rafaelb056/test_to_flexb
 
 ## Show your support
 
-muchas gracias por el apoyo
+Muchas gracias por el apoyo
 
 ## Acknowledgments
 
--  gracias al profesor aristides
+- Gracias al profesor aristides
 
 ## 📝 License
 
